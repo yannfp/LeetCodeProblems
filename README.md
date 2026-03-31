@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yannfp/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/yannfp/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/yannfp/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/yannfp/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/yannfp/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/yannfp/LeetCodeProblems/tree/master/0792-binary-search) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yannfp/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yannfp/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yannfp/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yannfp/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yannfp/LeetCodeProblems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yannfp/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yannfp/LeetCodeProblems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/yannfp/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yannfp/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yannfp/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/yannfp/LeetCodeProblems/tree/master/0792-binary-search) |
 ## Tree
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yannfp/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -130,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yannfp/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
