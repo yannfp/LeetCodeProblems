@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yannfp/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yannfp/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yannfp/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/yannfp/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yannfp/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/yannfp/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 ## Binary Search
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yannfp/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/yannfp/LeetCodeProblems/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yannfp/LeetCodeProblems/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yannfp/LeetCodeProblems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
