@@ -63,21 +63,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yannfp/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Linked List
