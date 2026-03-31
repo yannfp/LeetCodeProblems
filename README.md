@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yannfp/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/yannfp/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/yannfp/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/yannfp/LeetCodeProblems/tree/master/1580-shuffle-the-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yannfp/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yannfp/LeetCodeProblems/tree/master/0069-sqrtx) |
 ## Tree
 |  |
