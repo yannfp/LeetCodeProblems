@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yannfp/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yannfp/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/yannfp/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/yannfp/LeetCodeProblems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
 | ------- |
