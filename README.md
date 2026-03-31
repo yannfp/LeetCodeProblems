@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yannfp/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/yannfp/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/yannfp/LeetCodeProblems/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/yannfp/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1580-shuffle-the-array](https://github.com/yannfp/LeetCodeProblems/tree/master/1580-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yannfp/LeetCodeProblems/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/yannfp/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/yannfp/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/yannfp/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
