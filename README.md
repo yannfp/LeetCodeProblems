@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yannfp/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/yannfp/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/yannfp/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/yannfp/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/yannfp/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/yannfp/LeetCodeProblems/tree/master/0792-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yannfp/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yannfp/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yannfp/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/yannfp/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yannfp/LeetCodeProblems/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
