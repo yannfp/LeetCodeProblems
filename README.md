@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yannfp/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/yannfp/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/yannfp/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/yannfp/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/yannfp/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/yannfp/LeetCodeProblems/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/yannfp/LeetCodeProblems/tree/master/1580-shuffle-the-array) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0619-biggest-single-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0619-biggest-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/yannfp/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
