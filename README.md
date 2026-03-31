@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yannfp/LeetCodeProblems/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/yannfp/LeetCodeProblems/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
